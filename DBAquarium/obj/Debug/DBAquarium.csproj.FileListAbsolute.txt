@@ -1,0 +1,16 @@
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\bin\Debug\DBAquarium.exe.config
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\bin\Debug\DBAquarium.exe
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\bin\Debug\DBAquarium.pdb
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\bin\Debug\EntityFramework.dll
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\bin\Debug\EntityFramework.xml
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.exe
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.pdb
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.Migrations.CreatOceeans.resources
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.csproj.GenerateResource.Cache
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.Migrations.Aquariums.resources
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.Migrations.AddedValue.resources
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.Migrations.AquaticLife.resources
+C:\Users\Lou75\tiy\week-5-6\DBAquarium\DBAquarium\obj\Debug\DBAquarium.Migrations.MaybeAddedForNKey.resources
